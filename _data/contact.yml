@@ -10,9 +10,9 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+#- type: rss
+#  icon: "fas fa-rss"
+#  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
@@ -29,8 +29,7 @@
 #
 - type: bluesky
   icon: 'fa-brands fa-bluesky'
-  url: 'https://bsky.app/profile/razordevs.bsky.social'                   # Fill with your Bluesky profile link
-#
+  url: 'https://bsky.app/profile/razordevs.bsky.social'
 # - type: reddit
 #   icon: 'fa-brands fa-reddit'
 #   url: ''                   # Fill with your Reddit profile link

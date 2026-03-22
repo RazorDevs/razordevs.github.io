@@ -19,7 +19,7 @@ Jekyll site. The following is a list of targets:
 ├── _config.yml
 ├── _plugins
 ├── _tabs
-└── index.html
+└── index.md
 ```
 
 To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
