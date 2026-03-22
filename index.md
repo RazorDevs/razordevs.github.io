@@ -3,6 +3,9 @@ layout: page
 # Index page
 ---
 
+> This page is under construction.
+{: .prompt-danger }
+
 # RazorDevs
 
 ***
@@ -31,5 +34,5 @@ Deep Aether is property of RazorDevs, including 345boneshoss, Aethyus, TunefulTu
 <br>
 <img src="assets/img/JoinOurCommunitySmall.png" alt="JoinOurCommunity">
 
-[![](https://img.shields.io/discord/1045640095853707345?style=for-the-badge&label=Discord)](https://discord.gg/xB6gaUv66t)</p>
+[![](https://img.shields.io/discord/1045640095853707345?style=for-the-badge&label=Discord)](https://discord.gg/xB6gaUv66t)
 
